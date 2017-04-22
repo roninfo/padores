@@ -1,0 +1,2 @@
+Essa solucao caracteria o padrao BRIDGE, qu cria uma ponte entre duas hierarquias ligadas por uma relacao de composicao
+permitindo que ambas variem de form independente.
